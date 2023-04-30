@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>habits</title>
+  <link rel="shortcut icon" href="./assets/logo.svg" type="image/x-svg">
+  <link rel="stylesheet" href="style.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700;900&family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+      <a href="#">
+      <img src="./assets/logo-name.svg" alt="habits' logo">
+      </a>
+
+      <button>
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M3.125 10H16.875" stroke="#8B5CF6" stroke-width="1.88" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M10 3.125V16.875" stroke="#8B5CF6" stroke-width="1.88" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <div>Register my day</div>
+      </button>
+  </header>
+    <form>
+      <div class="habits">
+        <div class="habit" data-name="run">🏃‍♂️</div>
+        <div class="habit" data-name="water">💧</div>
+        <div class="habit" data-name="food">🍎</div>
+        <div class="habit" data-name="journal">📖</div>
+        <div class="habit" data-name="takePills">💊</div>
+        <div class="habit" data-name="sleep">💤</div>
+        <div class="habit" data-name="exercise">💪</div>
+      </div>
+
+      <div class="days"></div>
+
+
+    </form>
+    <script src="https://cdn.jsdelivr.net/gh/maykbrito/libs/NLWSetup/source/NLWSetup.js"></script>
+    <script src="./script.js"></script>
+</body>
+</html>
