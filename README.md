@@ -46,5 +46,7 @@ Check the project layout on [Figma](https://www.figma.com/file/GG2BAPAm032g5RLUQ
 This project is under MIT license.
 
 ---
-
+<br>
+<p align = "center">
 Thank you for checking ♥ :wave:
+</p>
