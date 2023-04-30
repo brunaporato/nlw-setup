@@ -1,14 +1,14 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> #NLW Habits </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+NLW is a private event by RocketSeat to take WEB developer to the next level. <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tech</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -21,29 +21,30 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <img alt="projeto Habits" src="./.github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tech
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O Habits é um app para ajudar a rastrear os habitos diários.
+Habits is an app that helps you to track your daily habits. Check if you drink enough water that day or remember if you were able to run yesterday morning.
 
-- [Acesse o projeto finalizado, online](https://brunaporato.github.io/nlw-setup)
+- [Acess Habits App online](https://brunaporato.github.io/nlw-setup)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/GG2BAPAm032g5RLUQEhF6U/Habits-(e)-(Community)?node-id=6-910&t=WM0lKVHcVcFwO9TN-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Check the project layout on [Figma](https://www.figma.com/file/GG2BAPAm032g5RLUQEhF6U/Habits-(e)-(Community)?node-id=6-910&t=WM0lKVHcVcFwO9TN-0).
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under MIT license.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Thank you for checking ♥ :wave:
