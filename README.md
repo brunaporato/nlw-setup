@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 
 Habits is an app that helps you to track your daily habits. Check if you drink enough water that day or remember if you were able to run yesterday morning.
 
-- [Acess Habits App online](https://brunaporato.github.io/nlw-setup)
+- [Access Habits App online](https://brunaporato.github.io/nlw-setup)
 
 ## 🔖 Layout
 
