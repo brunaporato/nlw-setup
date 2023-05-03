@@ -14,8 +14,14 @@ function add() {
   const dayExists = nlwSetup.dayExists(today)
 
   if(dayExists) {
-    alert(`Oops! 🛑\n\n${today} is already registred.`)
+    const anotherDay = confirm(`Oops! 🛑\n\n${today} is already registred. \nWant to register another date?`)
     
+    if(anotherDay) {
+      const newDate = prompt("Enter the date (DD/MM)")
+      nlwSetup.addDay(newDate)
+    } else {
+      return
+    }
   }
 
   nlwSetup.addDay(today)
